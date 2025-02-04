@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohdSarfaraz04
+- 👋 Hi, I’m @MohdSarfaraz
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on website creations
